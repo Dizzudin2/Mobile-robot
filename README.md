@@ -6,8 +6,8 @@ This repositories contain the code implementation for Mobile Robotic assignment 
 | No. | Content         |
 |-----|-----------------|
 | 1   | [Robot Objective](#robot-objective) |
-| 2   | Robot Schematic |
-| 3.  | Robot Mechanism |
+| 2   | [Robot Schematic](#robot-schematic)  |
+| 3.  | [Robot Mechanism](#robot-mechanism)  |
 
 ### Robot Objective
 
