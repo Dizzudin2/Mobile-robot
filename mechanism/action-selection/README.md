@@ -19,5 +19,10 @@ coordinated behaviour [
 ## Behaviour Design
 
 ### Behaviour 1(avoid-obstacle)
+Gain = 1.5
+
 ### Behaviour 2(find-north)
+Gain = 1.0
+
 ### Behaviour 3(cruise)
+Gain = 0.5
