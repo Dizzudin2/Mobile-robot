@@ -5,9 +5,10 @@ This repositories contain the code implementation for Mobile Robotic assignment 
 
 ### Robot Schematic
 schematic diagram 1:
-![schematic diagram 1](./img/schematic_diagram1.PNG)
 <div>
 <img src="./img/schematic_diagram1.PNG" width="500" height="300"/>
 </div>
 schematic diagram 2 :
-![schematic diagram 2](./img/schematic_diagram2.PNG)
+<div>
+<img src="./img/schematic_diagram2.PNG" width="500" height="300"/>
+</div>
