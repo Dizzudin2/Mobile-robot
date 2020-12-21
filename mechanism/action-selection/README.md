@@ -1,7 +1,5 @@
 # Action Selection
 
-## Behaviour Expression
-
 ### Stimulus Response Diagram
 
 <div>
