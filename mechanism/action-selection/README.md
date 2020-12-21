@@ -12,8 +12,8 @@
 
 ```
 coordinated behaviour [ 
-                                            avoid-obstacle(ultrasonic), 
-                                            find-north(compass),
-                                            cruise(switch) 
+                avoid-obstacle(ultrasonic), 
+                find-north(compass),
+                cruise(switch) 
 ]  = motor-response
 ```
