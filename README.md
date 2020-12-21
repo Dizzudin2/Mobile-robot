@@ -5,7 +5,7 @@ This repositories contain the code implementation for Mobile Robotic assignment 
 
 ### Robot Schematic
 schematic diagram 1:
-![schematic diagram 1](./img/schematic_diagram1.PNG)
+![schematic diagram 1](./img/schematic_diagram1.PNG =250x)
 
 schematic diagram 2 :
-![schematic diagram 2](./img/schematic_diagram2.PNG)
+![schematic diagram 2](./img/schematic_diagram2.PNG =250x)
