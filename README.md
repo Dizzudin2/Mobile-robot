@@ -12,3 +12,8 @@ schematic diagram 2 :
 <div>
 <img src="./img/schematic_diagram2.PNG" width="500" height="300"/>
 </div>
+
+### Robot Mechanism
+1. [Priority Based](./mechanism/priority-based)
+2. Action-Selection
+3. Voting
