@@ -3,7 +3,25 @@ This repositories contain the code implementation for Mobile Robotic assignment 
 
 ### Table Of Content
 
+| No. | Content         |
+|-----|-----------------|
+| 1   | Robot Objective |
+| 2   | Robot Schematic |
+| 3.  | Robot Mechanism |
+
+### Robot Objective
+
+The mobile robot is located at a random
+starting position. The mobile robot needs
+to move toward NORTH direction from
+its starting position. There are two
+obstacles along the path. The mobile
+robot should be able to avoid these
+obstacles while maintaining its NORTH
+direction.
+
 ### Robot Schematic
+
 schematic diagram 1:
 <div>
 <img src="./img/schematic_diagram1.PNG" width="500" height="300"/>
