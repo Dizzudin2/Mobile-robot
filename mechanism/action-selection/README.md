@@ -11,8 +11,9 @@
 ### Functional Notation
 
 ```
-ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+coordinated behaviour [ 
+                                            avoid-obstacle(ultrasonic), 
+                                            find-north(compass),
+                                            cruise(switch) 
+]  = motor-response
 ```
