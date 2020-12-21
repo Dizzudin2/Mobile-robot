@@ -15,5 +15,5 @@ schematic diagram 2 :
 
 ### Robot Mechanism
 1. [Priority Based](./mechanism/priority-based)
-2. Action-Selection
-3. Voting
+2. [Action-Selection](./mechanism/action-selection)
+3. [Voting](./mechanism/voting)
