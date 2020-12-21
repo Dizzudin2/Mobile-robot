@@ -17,3 +17,9 @@ coordinated behaviour [
                 cruise(switch) 
 ]  = motor-response
 ```
+
+## Behaviour Design
+
+### Behaviour 1(avoid-obstacle)
+### Behaviour 2(find-north)
+### Behaviour 3(cruise)
